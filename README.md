@@ -14,9 +14,7 @@ We welcome contributions that add value to the learning community:
 
 - **Free Online Courses** - From platforms like Coursera, edX, Khan Academy, and more
 - **Educational YouTube Channels** - High-quality tutorial series and educational content
-- **Free eBooks and PDFs** - Legitimate free textbooks and learning materials
 - **Interactive Learning Platforms** - Coding challenges, language learning apps, etc.
-- **Documentation and Tutorials** - Well-written guides and how-to content
 - **Open Source Projects** - Projects that help others learn through hands-on experience
 
 ## How to Contribute
@@ -68,6 +66,5 @@ We strive to maintain a welcoming and inclusive environment. Please:
 
 This project is open source and available under the [MIT License](LICENSE).
 
----
 
 **Ready to contribute?** Start by reading our [Contributing Guide](CONTRIBUTING.md) and then dive in! Every contribution, no matter how small, makes a difference in someone's learning journey.

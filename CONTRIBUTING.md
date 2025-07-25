@@ -55,12 +55,6 @@ We welcome various types of educational resources:
 - Webinar recordings
 - Conference talks
 
-### 📚 Reading Materials
-- Free eBooks and PDFs
-- Documentation and guides
-- Research papers and articles
-- Interactive tutorials
-
 ### 💻 Interactive Learning
 - Coding challenges and platforms
 - Language learning apps

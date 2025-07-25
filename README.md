@@ -6,7 +6,7 @@ Welcome to the LearnforFree-Contributions repository! This is your gateway to co
 
 ## About This Repository
 
-This repository serves as the central hub for community contributions to the [LearnforFree website](https://learnforfree.com). Here, contributors can submit pull requests to add new free educational resources, update existing content, fix issues, and help improve the overall learning experience for thousands of users worldwide.
+This repository serves as the central hub for community contributions to the [LearnforFree website](https://learnforfree.site). Here, contributors can submit pull requests to add new free educational resources, update existing content, fix issues, and help improve the overall learning experience for thousands of users worldwide.
 
 ## What We're Looking For
 
